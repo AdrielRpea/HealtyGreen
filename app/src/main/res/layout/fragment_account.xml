@@ -185,17 +185,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView6" />
 
-    <TextView
-        android:id="@+id/tv_logout"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
-        android:text="Log Out"
-        android:paddingHorizontal="24dp"
-        android:gravity="center|start"
-        android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="@+id/imageView7"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toEndOf="@+id/imageView7"
-        app:layout_constraintTop_toTopOf="@+id/imageView7" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
