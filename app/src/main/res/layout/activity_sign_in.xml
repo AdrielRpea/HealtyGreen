@@ -63,10 +63,10 @@
 
     <Button
         android:id="@+id/sign_up2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="211dp"
+        android:layout_height="45dp"
         android:layout_marginStart="108dp"
-        android:layout_marginTop="104dp"
+        android:layout_marginTop="124dp"
         android:backgroundTint="@color/basic_blue_dark"
         android:paddingHorizontal="40dp"
         android:text="lupa password"
