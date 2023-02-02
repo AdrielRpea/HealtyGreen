@@ -47,7 +47,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/circleImageView"
         android:layout_marginTop="12dp"
-        tools:text="Gideon Hulu" />
+        tools:text="Makali" />
 
     <TextView
         android:id="@+id/tv_number_phone"

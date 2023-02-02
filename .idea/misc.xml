@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/RentalLaptop/app/src/main/res/layout/activity_about.xml" value="0.27447916666666666" />
+        <entry key="..\:/RentalLaptop/app/src/main/res/layout/activity_dashboard.xml" value="0.27447916666666666" />
+        <entry key="..\:/RentalLaptop/app/src/main/res/layout/activity_detail_laptop.xml" value="0.27447916666666666" />
+        <entry key="..\:/RentalLaptop/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/RentalLaptop/app/src/main/res/layout/activity_maintance.xml" value="0.27447916666666666" />
+        <entry key="..\:/RentalLaptop/app/src/main/res/layout/activity_payment.xml" value="0.27447916666666666" />
+        <entry key="..\:/RentalLaptop/app/src/main/res/layout/activity_profile.xml" value="0.27447916666666666" />
+        <entry key="..\:/RentalLaptop/app/src/main/res/layout/activity_schedule.xml" value="0.27447916666666666" />
+        <entry key="..\:/RentalLaptop/app/src/main/res/layout/activity_setting.xml" value="0.27447916666666666" />
+        <entry key="..\:/RentalLaptop/app/src/main/res/layout/activity_sign_in.xml" value="0.27447916666666666" />
+        <entry key="..\:/RentalLaptop/app/src/main/res/layout/activity_sign_up.xml" value="0.27447916666666666" />
+        <entry key="..\:/RentalLaptop/app/src/main/res/layout/activity_soundpool.xml" value="0.27447916666666666" />
+        <entry key="..\:/RentalLaptop/app/src/main/res/layout/activity_splash_screen.xml" value="0.27447916666666666" />
+        <entry key="..\:/RentalLaptop/app/src/main/res/layout/activity_topup.xml" value="0.27447916666666666" />
+        <entry key="..\:/RentalLaptop/app/src/main/res/layout/activity_transfer.xml" value="0.27447916666666666" />
+        <entry key="..\:/RentalLaptop/app/src/main/res/layout/activity_weather.xml" value="0.27447916666666666" />
+        <entry key="..\:/RentalLaptop/app/src/main/res/layout/content_notification.xml" value="0.27447916666666666" />
+        <entry key="..\:/RentalLaptop/app/src/main/res/layout/fragment_account.xml" value="0.27447916666666666" />
+        <entry key="..\:/RentalLaptop/app/src/main/res/layout/fragment_browse.xml" value="0.27447916666666666" />
+        <entry key="..\:/RentalLaptop/app/src/main/res/layout/fragment_first.xml" value="0.27447916666666666" />
+        <entry key="..\:/RentalLaptop/app/src/main/res/layout/fragment_first2.xml" value="0.27447916666666666" />
+        <entry key="..\:/RentalLaptop/app/src/main/res/layout/fragment_history.xml" value="0.27447916666666666" />
+        <entry key="..\:/RentalLaptop/app/src/main/res/layout/fragment_home.xml" value="0.27447916666666666" />
+        <entry key="..\:/RentalLaptop/app/src/main/res/layout/fragment_second.xml" value="0.27447916666666666" />
+        <entry key="..\:/RentalLaptop/app/src/main/res/layout/fragment_second2.xml" value="0.27447916666666666" />
+        <entry key="..\:/RentalLaptop/app/src/main/res/layout/image_holder.xml" value="0.27447916666666666" />
+        <entry key="..\:/RentalLaptop/app/src/main/res/layout/item_laptop.xml" value="0.27447916666666666" />
+        <entry key="..\:/RentalLaptop/app/src/main/res/layout/layout_recy_view.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

@@ -38,7 +38,7 @@
             android:textStyle="bold"
             app:layout_constraintLeft_toRightOf="@id/avatar"
             app:layout_constraintTop_toTopOf="@id/avatar"
-            tools:text="Gideon Hulu" />
+            tools:text="Makali" />
 
         <TextView
             android:id="@+id/saldo"
